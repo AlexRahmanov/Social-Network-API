@@ -36,3 +36,17 @@ This repo is not to be deployed, if you wanted to, you could by doing the follow
 - npm install express
 - npm install mongoose
 - npm install moment
+
+# Mock-Up:
+The following animation shows GET routes to return all users and all thoughts being tested in Insomnia:
+![18-nosql-homework-demo-01](https://user-images.githubusercontent.com/86209350/176320349-06972180-0395-486e-be8b-a2d1b295b703.gif)
+
+The following animation shows GET routes to return a single user and a single thought being tested in Insomnia:
+![18-nosql-homework-demo-02](https://user-images.githubusercontent.com/86209350/176320431-76522bd5-d049-4afa-a72e-6c0764fe3b98.gif)
+
+The following animation shows the POST, PUT, and DELETE routes for users being tested in Insomnia:
+![18-nosql-homework-demo-03](https://user-images.githubusercontent.com/86209350/176320470-eafafd72-8de8-4dc3-bb4c-191178fdae4e.gif)
+
+
+
+
